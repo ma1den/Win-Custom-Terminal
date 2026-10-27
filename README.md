@@ -8,6 +8,7 @@ add variable XDG_CONFIG_HOME c:\Users\korisnik\.config
 
 ##POSH
 install christitus POSH script
+Nerd font needed
 
 ###NVIM
 #Pluagin manager
