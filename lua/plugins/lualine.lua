@@ -4,7 +4,7 @@ return {
   config = function()
     require("lualine").setup({
       options = {
-        theme = "catppuccin", -- Automatically matches your catppuccin-mocha colorscheme
+        theme = "catppuccin-nvim", -- Automatically matches your catppuccin-mocha colorscheme
         component_separators = { left = "│", right = "│" },
         section_separators = { left = "", right = "" }, -- Clean flat edge visual style
         disabled_filetypes = {

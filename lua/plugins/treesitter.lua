@@ -8,6 +8,8 @@ return {
       -- Install parsers synchronously (only applied to `ensure_installed`)
       sync_install = false,
       auto_install = true,
+      ensure_installed = {"lua", "css", "html", "typescript"},
+      indent = { enable = true }, 
       highlight = {
         enable = true,
         additional_vim_regex_highlighting = false,
